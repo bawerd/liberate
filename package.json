@@ -1,0 +1,10 @@
+{ "name"        : "liberate"
+, "version"     : "1.0.0"
+, "author"      : "Danny Cook <daniel.wi.cook@gmail.com>"
+, "description" : "Take control of your method's destiny."
+, "main"        : "./index.js"
+, "repository"  :
+    { "type"    : "git"
+    , "url"     : "https://github.com/dwcook/liberate.git"
+    }
+}
